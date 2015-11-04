@@ -29,7 +29,7 @@ public class Matrix {
 	public Double[][] makeRandomMatrix(Integer x, Integer y){
 		for(int i=0; i<x; i++)
 			for(int j=0; j<y; j++)
-				matrix[i][j]=5.0;//new Random().nextDouble();
+				matrix[i][j]=5.7;//new Random().nextDouble();
 		return matrix;
 	}
 	
